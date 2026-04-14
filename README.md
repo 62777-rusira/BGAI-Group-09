@@ -7,5 +7,5 @@
 
 ### Commit message
 ```
-Initial setup: user registration and login (30%)
+Initial setup: user registration and login
 ```
