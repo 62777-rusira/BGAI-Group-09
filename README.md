@@ -1,2 +1,11 @@
-# BGAI-Group-09
-This project focuses on the design and development of a modern e-commerce website for a jewellery brand from scratch. The goal is to build a visually appealing, responsive, and secure online store that allows customers to explore jewellery collections, view detailed product information, and purchase items online.
+# Module 2: Product Catalogue - 30% Complete
+## Commit 1/6 - Product Browsing
+
+### What's in this commit
+- **READ**: `products/shop.php` - Browse all products
+- **READ**: `products/detail.php` - View single product
+
+### Commit message
+```
+Initial product catalogue: shop listing and detail view (30%)
+```
