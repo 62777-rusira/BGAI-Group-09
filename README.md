@@ -1,11 +1,11 @@
-# Module 3: Shopping Cart - 30% Complete
-## Commit 1/6 - Basic Cart
+# Module 3: Shopping Cart - 50% Complete
+## Commit 2/6 - Cart CRUD Complete
 
-### What's in this commit
-- **CREATE**: `cart/add.php` - Add to cart
-- **READ**: `cart/index.php` - View cart
+### What's added
+- **UPDATE**: `cart/update.php` - Change quantity
+- **DELETE**: `cart/remove.php` - Remove from cart
 
 ### Commit message
 ```
-Initial shopping cart: add and view items (30%)
+Complete cart CRUD: update quantity and remove items (50%)
 ```
