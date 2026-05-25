@@ -1,10 +1,11 @@
-# Module 1: User Authentication - 65% Complete
-## Commit 3/6 - Profile Update
+# Module 2: Product Catalogue - 65% Complete
+## Commit 3/6 - Product CRUD Complete
 
 ### What's added
-- **UPDATE**: `auth/update-profile.php` - Edit profile details
+- **UPDATE**: `products/edit.php` - Edit product
+- **DELETE**: `products/delete.php` - Delete product
 
 ### Commit message
 ```
-Add update profile feature (65%)
+Complete product CRUD operations (65%)
 ```
