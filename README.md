@@ -1,11 +1,10 @@
-# Module 3: Shopping Cart - 50% Complete
-## Commit 2/6 - Cart CRUD Complete
+# Module 3: Shopping Cart - 65% Complete
+## Commit 3/6 - Checkout
 
 ### What's added
-- **UPDATE**: `cart/update.php` - Change quantity
-- **DELETE**: `cart/remove.php` - Remove from cart
+- **CREATE**: `cart/checkout.php` - Convert cart into order
 
 ### Commit message
 ```
-Complete cart CRUD: update quantity and remove items (50%)
+Add checkout flow: create orders from cart (65%)
 ```
