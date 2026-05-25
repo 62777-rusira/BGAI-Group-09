@@ -1,11 +1,10 @@
-# Module 1: User Authentication - 50% Complete
-## Commit 2/6 - Profile & Logout
+# Module 1: User Authentication - 65% Complete
+## Commit 3/6 - Profile Update
 
 ### What's added
-- **READ**: `auth/profile.php` - Display user profile
-- `auth/logout.php` - Session destroy
+- **UPDATE**: `auth/update-profile.php` - Edit profile details
 
 ### Commit message
 ```
-Add user profile page and logout functionality (50%)
+Add update profile feature (65%)
 ```
