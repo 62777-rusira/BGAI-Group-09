@@ -1,10 +1,13 @@
-# Module 3: Shopping Cart - 65% Complete
-## Commit 3/6 - Checkout
+# Module 4: Payments - 65% Complete
+## Commit 3/6 - Currency CRUD
 
-### What's added
-- **CREATE**: `cart/checkout.php` - Convert cart into order
+### What's added (full currency CRUD)
+- **READ**: `payments/currencies.php`
+- **CREATE**: `payments/add-currency.php`
+- **UPDATE**: `payments/edit-currency.php`
+- **DELETE**: `payments/delete-currency.php`
 
 ### Commit message
 ```
-Add checkout flow: create orders from cart (65%)
+Add complete currency management CRUD (65%)
 ```
